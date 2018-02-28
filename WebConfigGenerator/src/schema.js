@@ -1,7 +1,7 @@
 import Validators from './validators';
 
 export default {
-    'V3.1.0.2+': {
+    'V3.1.0.9+': {
         asf: [
             {
                 legend: 'schema.basic',
@@ -422,6 +422,12 @@ export default {
                         type: 'InputCheckbox',
                         label: 'AutoSteamSaleEvent',
                         field: 'AutoSteamSaleEvent',
+                        defaultValue: false
+                    },
+                    {
+                        type: 'InputCheckbox',
+                        label: 'IdlePriorityQueueOnly',
+                        field: 'IdlePriorityQueueOnly',
                         defaultValue: false
                     },
                     {
