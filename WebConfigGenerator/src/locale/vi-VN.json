@@ -2,7 +2,7 @@
     "app.name": "ASF Config Generator",
     "button.advanced": "Hiển thị cài đặt nâng cao",
     "button.download": "Tải về",
-    "home.topic": "ASF Config Generator là một công cụ được viết bằng JavaScript, giúp bạn tạo file cài đặt cho ASF. Sau khi tải về file.json, hãy chuyển nó đến thư mục <var>config</var> trong thư mục gốc của ASF. Để xem toàn bộ hướng dẫn về ASF, hãy truy cập trang <a href=\\\"https: //github.com/JustArchi/ArchiSteamFarm/wiki/Configuration\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">wiki</a>. Hy vọng công cụ này sẽ giúp bạn trong việc tuỳ chỉnh ASF.",
+    "home.topic": "ASF Config Generator là một công cụ được viết bằng JavaScript, giúp bạn tạo file cài đặt cho ASF. Sau khi tải về file.json, hãy chuyển nó đến thư mục <var>config</var> trong thư mục gốc của ASF. Để xem toàn bộ hướng dẫn về ASF, hãy truy cập trang <a href=\\\"https://github.com/JustArchi/ArchiSteamFarm/wiki/Configuration\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">wiki</a>. Hy vọng công cụ này sẽ giúp bạn trong việc tuỳ chỉnh ASF.",
     "link.asf": "ASF",
     "link.bot": "Bot",
     "link.home": "Trang chủ",
